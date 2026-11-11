@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "TOOLS WEI - Product & Stock Calculator",
+  "short_name": "TOOLS WEI",
+  "description": "Product, stock, sales, purchases and debt management",
+  "lang": "km",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1224",
+  "theme_color": "#142448",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
