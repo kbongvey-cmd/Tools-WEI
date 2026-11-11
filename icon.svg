@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#142448"/>
+<path d="M112 145h288v54H112zm0 84h190v54H112zm0 84h288v54H112z" fill="#65a4ff"/>
+<path d="M342 229h58v138h-58z" fill="#25c69a"/>
+<text x="256" y="435" font-family="Arial,sans-serif" font-size="45" font-weight="bold" text-anchor="middle" fill="#fff">WEI</text>
+</svg>
